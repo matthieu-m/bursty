@@ -1,0 +1,10 @@
+[package]
+name = "bursty"
+version = "0.1.0"
+authors = ["Matthieu M. <matthieum.147192@gmail.com>"]
+edition = "2021"
+description = "Test support for exarcebating contention in multi-threaded code"
+repository = "https://github.com/matthieu-m/bursty"
+license = "MIT OR Apache-2.0"
+categories = ["development-tools::testing", "concurrency"]
+keywords = ["benchmark", "concurrency", "latency", "test"]
